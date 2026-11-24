@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:14.11.2026
+## Reference Number:26011201
+## Name:Dharika P
 
 ### 1. Proposed Solution
 Title: FarmConnect – AI-Powered Direct Farmer-to-Consumer Marketplace
